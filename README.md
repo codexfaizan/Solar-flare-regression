@@ -1,1 +1,2 @@
 # Solar-flare-regression
+This task involves applying regression techniques on solar flare dataset available on UCI Machine Learning Repository. The dataset has 10 features that are Code for class, Code for largest spot size, Code for spot distribution, Activity, Evolution, Previous 24 hour flare activity code, Historically-complex, Did region become historically complex on this pass across the sun's disk, Area and  Area of the largest spot. We are predicting the value for common flares which is our target variable. The total number of rows in the dataset is 1065
